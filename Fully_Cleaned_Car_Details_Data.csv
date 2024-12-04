@@ -1,0 +1,557 @@
+,Make,Model,Price,Year,Kilometer,Fuel Type,Transmission,Location,Color,Owner,Engine,Max Power,Max Torque,Drivetrain,Fuel Tank Capacity,mileage
+14,Volkswagen,Polo GT TSI,944999,2017,41417,Petrol,Automatic,Bangalore,Grey,First,1197 cc,103,1500 rpm,FWD,45.0,17.21 kmpl
+15,Volkswagen,Polo GT TSI,944999,2017,41417,Petrol,Automatic,Bangalore,Grey,First,1197 cc,103,1500 rpm,FWD,45.0,17.2 kmpl
+16,Volkswagen,Polo GT TSI,944999,2017,41417,Petrol,Automatic,Bangalore,Grey,First,1197 cc,103,1500 rpm,FWD,45.0,17.2 kmpl
+29,Honda,Brio V MT,351000,2014,39276,Petrol,Manual,Mumbai,Red,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+30,Honda,Brio V MT,351000,2014,39276,Petrol,Manual,Mumbai,Red,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+31,Honda,Brio V MT,351000,2014,39276,Petrol,Manual,Mumbai,Red,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+44,Mercedes-Benz,M-Class ML 250 CDI,2300000,2014,105101,Diesel,Automatic,Vadodara,White,First,2143 cc,203,1600 rpm,AWD,70.0,15.26 kmpl
+63,Honda,Brio S MT,440000,2016,50374,Petrol,Manual,Vadodara,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+64,Honda,Brio S MT,440000,2016,50374,Petrol,Manual,Vadodara,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+65,Honda,Brio S MT,440000,2016,50374,Petrol,Manual,Vadodara,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+66,Honda,Brio S MT,440000,2016,50374,Petrol,Manual,Vadodara,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+67,Honda,Brio S MT,440000,2016,50374,Petrol,Manual,Vadodara,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+68,Honda,Brio S MT,440000,2016,50374,Petrol,Manual,Vadodara,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+69,Honda,Brio S MT,440000,2016,50374,Petrol,Manual,Vadodara,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+76,BMW,X3 xDrive20d,1800000,2012,74073,Diesel,Automatic,Hyderabad,Black,First,1995 cc,184,1750 rpm,AWD,67.0,16.09 kmpl
+108,Hyundai,Verna 1.6 VTVT SX,750000,2018,16339,Petrol,Manual,Kolkata,Black,First,1591 cc,121,4200 rpm,FWD,43.0,17.01 kmpl
+109,Hyundai,Verna 1.6 VTVT SX,750000,2018,16339,Petrol,Manual,Kolkata,Black,First,1591 cc,121,4200 rpm,FWD,43.0,17.01 kmpl
+110,Hyundai,Verna 1.6 VTVT SX,750000,2018,16339,Petrol,Manual,Kolkata,Black,First,1591 cc,121,4200 rpm,FWD,43.0,17.01 kmpl
+112,Toyota,Corolla Altis 1.8 G,493000,2012,28732,Petrol,Manual,Zirakpur,Silver,First,1798 cc,138,4000 rpm,FWD,55.0,14.28 kmpl
+113,Toyota,Corolla Altis 1.8 G,493000,2012,28732,Petrol,Manual,Zirakpur,Silver,First,1798 cc,138,4000 rpm,FWD,55.0,14.28 kmpl
+145,Tata,Harrier XZ Plus,2145000,2020,10290,Diesel,Manual,Bangalore,Red,First,1956 cc,168,1750 rpm,FWD,50.0,17.0 kmpl
+172,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+173,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+174,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+175,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+176,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+177,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+178,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+179,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+180,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+181,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+182,Hyundai,i20 Magna 1.2,385000,2013,79287,Petrol,Manual,Kanpur,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+232,Volvo,V40 Cross Country D3,1250000,2013,71141,Diesel,Automatic,Navi Mumbai,Silver,First,1984 cc,150,1500 rpm,FWD,60.0,23.3 kmpl
+241,Mercedes-Benz,M-Class ML 350 CDI,2682000,2015,76345,Diesel,Automatic,Gurgaon,White,First,2997 cc,254,1600 rpm,AWD,70.0,11.74 kmpl
+242,Mercedes-Benz,M-Class ML 350 CDI,2682000,2015,76345,Diesel,Automatic,Gurgaon,White,First,2997 cc,254,1600 rpm,AWD,70.0,11.74 kmpl
+320,Toyota,Glanza G CVT,790000,2019,25000,Petrol,Automatic,Delhi,Red,First,1197 cc,82,4200 rpm,FWD,37.0,19.56 kmpl
+323,Volkswagen,Polo GT TSI,525000,2015,80852,Petrol,Automatic,Faridabad,Grey,Second,1198 cc,103,1500 rpm,FWD,45.0,17.21 kmpl
+324,Volkswagen,Polo GT TSI,525000,2015,80852,Petrol,Automatic,Faridabad,Grey,Second,1198 cc,103,1500 rpm,FWD,45.0,17.2 kmpl
+325,Volkswagen,Polo GT TSI,525000,2015,80852,Petrol,Automatic,Faridabad,Grey,Second,1198 cc,103,1500 rpm,FWD,45.0,17.2 kmpl
+346,BMW,X3 xDrive20d,1090000,2012,65000,Diesel,Automatic,Delhi,Silver,Second,1995 cc,184,1750 rpm,AWD,67.0,16.09 kmpl
+356,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.5 kmpl
+357,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.5 kmpl
+358,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.5 kmpl
+359,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+360,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.5 kmpl
+361,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.5 kmpl
+362,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+363,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+364,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.5 kmpl
+365,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.5 kmpl
+366,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+367,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.5 kmpl
+368,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+369,Hyundai,i20 Sportz 1.2,375000,2013,29135,Petrol,Manual,Panchkula,White,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+380,Volkswagen,Polo GT TSI,1095000,2020,43260,Petrol,Automatic,Bangalore,Red,First,1197 cc,103,1500 rpm,FWD,45.0,17.21 kmpl
+381,Volkswagen,Polo GT TSI,1095000,2020,43260,Petrol,Automatic,Bangalore,Red,First,1197 cc,103,1500 rpm,FWD,45.0,17.2 kmpl
+382,Volkswagen,Polo GT TSI,1095000,2020,43260,Petrol,Automatic,Bangalore,Red,First,1197 cc,103,1500 rpm,FWD,45.0,17.2 kmpl
+399,Honda,Brio S MT,310000,2014,49000,Petrol,Manual,Delhi,Brown,Second,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+400,Honda,Brio S MT,310000,2014,49000,Petrol,Manual,Delhi,Brown,Second,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+401,Honda,Brio S MT,310000,2014,49000,Petrol,Manual,Delhi,Brown,Second,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+402,Honda,Brio S MT,310000,2014,49000,Petrol,Manual,Delhi,Brown,Second,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+403,Honda,Brio S MT,310000,2014,49000,Petrol,Manual,Delhi,Brown,Second,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+404,Honda,Brio S MT,310000,2014,49000,Petrol,Manual,Delhi,Brown,Second,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+405,Honda,Brio S MT,310000,2014,49000,Petrol,Manual,Delhi,Brown,Second,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+419,Toyota,Corolla Altis 1.8 G,725000,2014,104814,Petrol,Manual,Mumbai,Grey,First,1798 cc,138,4000 rpm,FWD,55.0,14.28 kmpl
+420,Toyota,Corolla Altis 1.8 G,725000,2014,104814,Petrol,Manual,Mumbai,Grey,First,1798 cc,138,4000 rpm,FWD,55.0,14.28 kmpl
+474,Hyundai,i20 Active 1.4 SX,725000,2016,84000,Diesel,Manual,Aurangabad,White,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+475,Hyundai,i20 Active 1.4 SX,725000,2016,84000,Diesel,Manual,Aurangabad,White,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+476,Hyundai,i20 Active 1.4 SX,725000,2016,84000,Diesel,Manual,Aurangabad,White,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+477,Hyundai,i20 Active 1.4 SX,725000,2016,84000,Diesel,Manual,Aurangabad,White,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+478,Hyundai,i20 Active 1.4 SX,725000,2016,84000,Diesel,Manual,Aurangabad,White,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+479,Hyundai,i20 Active 1.4 SX,725000,2016,84000,Diesel,Manual,Aurangabad,White,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+480,Hyundai,i20 Active 1.4 SX,725000,2016,84000,Diesel,Manual,Aurangabad,White,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+481,Mercedes-Benz,M-Class ML 350 CDI,2450000,2014,65000,Diesel,Automatic,Chandigarh,White,Second,2997 cc,254,1600 rpm,AWD,70.0,11.74 kmpl
+482,Mercedes-Benz,M-Class ML 350 CDI,2450000,2014,65000,Diesel,Automatic,Chandigarh,White,Second,2997 cc,254,1600 rpm,AWD,70.0,11.74 kmpl
+489,Volvo,V40 Cross Country D3,1595000,2015,44000,Diesel,Automatic,Mumbai,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,23.3 kmpl
+555,Hyundai,Verna 1.6 VTVT S,495000,2015,42000,Petrol,Manual,Kolkata,Red,First,1591 cc,121,4200 rpm,FWD,43.0,17.01 kmpl
+556,Hyundai,Verna 1.6 VTVT S,495000,2015,42000,Petrol,Manual,Kolkata,Red,First,1591 cc,121,4200 rpm,FWD,43.0,17.01 kmpl
+557,Hyundai,Verna 1.6 VTVT S,495000,2015,42000,Petrol,Manual,Kolkata,Red,First,1591 cc,121,4200 rpm,FWD,43.0,17.01 kmpl
+647,Honda,City 1.5 S MT,450000,2013,61000,Petrol,Manual,Delhi,Maroon,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+648,Honda,City 1.5 S MT,450000,2013,61000,Petrol,Manual,Delhi,Maroon,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+649,Honda,City 1.5 S MT,450000,2013,61000,Petrol,Manual,Delhi,Maroon,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+650,Honda,City 1.5 S MT,450000,2013,61000,Petrol,Manual,Delhi,Maroon,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+651,Honda,City 1.5 S MT,450000,2013,61000,Petrol,Manual,Delhi,Maroon,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+652,Honda,City 1.5 S MT,450000,2013,61000,Petrol,Manual,Delhi,Maroon,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+653,Honda,City 1.5 S MT,450000,2013,61000,Petrol,Manual,Delhi,Maroon,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+684,Volkswagen,Polo GT TSI,625000,2016,68000,Petrol,Automatic,Delhi,White,First,1197 cc,103,1500 rpm,FWD,45.0,17.21 kmpl
+685,Volkswagen,Polo GT TSI,625000,2016,68000,Petrol,Automatic,Delhi,White,First,1197 cc,103,1500 rpm,FWD,45.0,17.2 kmpl
+686,Volkswagen,Polo GT TSI,625000,2016,68000,Petrol,Automatic,Delhi,White,First,1197 cc,103,1500 rpm,FWD,45.0,17.2 kmpl
+751,Hyundai,i20 Active 1.2 S,529000,2015,57654,Petrol,Manual,Zirakpur,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+752,Hyundai,i20 Active 1.2 S,529000,2015,57654,Petrol,Manual,Zirakpur,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+753,Hyundai,i20 Active 1.2 S,529000,2015,57654,Petrol,Manual,Zirakpur,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+754,Hyundai,i20 Active 1.2 S,529000,2015,57654,Petrol,Manual,Zirakpur,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+755,Hyundai,i20 Active 1.2 S,529000,2015,57654,Petrol,Manual,Zirakpur,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+756,Hyundai,i20 Active 1.2 S,529000,2015,57654,Petrol,Manual,Zirakpur,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+757,Hyundai,i20 Active 1.2 S,529000,2015,57654,Petrol,Manual,Zirakpur,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+776,BMW,X1 sDrive20i xLine,4700000,2022,13120,Petrol,Automatic,Pune,White,First,1998 cc,189,1350 rpm,FWD,51.0,15.71 kmpl
+777,BMW,X1 sDrive20i xLine,4700000,2022,13120,Petrol,Automatic,Pune,White,First,1998 cc,189,1350 rpm,FWD,51.0,15.71 kmpl
+790,Honda,City 1.5 V MT,445000,2012,111000,Petrol,Manual,Ernakulam,Red,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+791,Honda,City 1.5 V MT,445000,2012,111000,Petrol,Manual,Ernakulam,Red,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+792,Honda,City 1.5 V MT,445000,2012,111000,Petrol,Manual,Ernakulam,Red,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+793,Honda,City 1.5 V MT,445000,2012,111000,Petrol,Manual,Ernakulam,Red,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+794,Honda,City 1.5 V MT,445000,2012,111000,Petrol,Manual,Ernakulam,Red,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+795,Honda,City 1.5 V MT,445000,2012,111000,Petrol,Manual,Ernakulam,Red,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+799,Mercedes-Benz,S-Class S 350 CDI,5500000,2015,54000,Diesel,Automatic,Faridabad,White,First,2987 cc,255,1600 rpm,RWD,70.0,13.5 kmpl
+800,Mercedes-Benz,S-Class S 350 CDI,5500000,2015,54000,Diesel,Automatic,Faridabad,White,First,2987 cc,255,1600 rpm,RWD,70.0,13.5 kmpl
+801,Mercedes-Benz,S-Class S 350 CDI,5500000,2015,54000,Diesel,Automatic,Faridabad,White,First,2987 cc,255,1600 rpm,RWD,70.0,13.5 kmpl
+802,Mercedes-Benz,S-Class S 350 CDI,5500000,2015,54000,Diesel,Automatic,Faridabad,White,First,2987 cc,255,1600 rpm,RWD,70.0,13.5 kmpl
+821,Toyota,Etios Liva GD,625000,2015,76000,Diesel,Manual,Pune,White,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+826,Toyota,Etios Liva GD,625000,2015,76000,Diesel,Manual,Pune,White,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+827,Toyota,Etios Liva GD,625000,2015,76000,Diesel,Manual,Pune,White,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+828,Toyota,Etios Liva GD,625000,2015,76000,Diesel,Manual,Pune,White,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+830,Toyota,Etios Liva GD,625000,2015,76000,Diesel,Manual,Pune,White,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+832,Toyota,Etios Liva GD,625000,2015,76000,Diesel,Manual,Pune,White,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+833,Toyota,Etios Liva GD,625000,2015,76000,Diesel,Manual,Pune,White,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+834,Toyota,Etios Liva GD,625000,2015,76000,Diesel,Manual,Pune,White,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+842,Honda,Brio S MT,365000,2014,31000,Petrol,Manual,Kharar,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+843,Honda,Brio S MT,365000,2014,31000,Petrol,Manual,Kharar,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+844,Honda,Brio S MT,365000,2014,31000,Petrol,Manual,Kharar,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+845,Honda,Brio S MT,365000,2014,31000,Petrol,Manual,Kharar,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+846,Honda,Brio S MT,365000,2014,31000,Petrol,Manual,Kharar,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+847,Honda,Brio S MT,365000,2014,31000,Petrol,Manual,Kharar,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+848,Honda,Brio S MT,365000,2014,31000,Petrol,Manual,Kharar,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+849,Chevrolet,Cruze LTZ AT,475000,2014,73265,Diesel,Automatic,Delhi,White,Second,1998 cc,164,2000 rpm,FWD,60.0,18.1 kmpl
+850,Chevrolet,Cruze LTZ AT,475000,2014,73265,Diesel,Automatic,Delhi,White,Second,1998 cc,164,2000 rpm,FWD,60.0,18.1 kmpl
+851,Chevrolet,Cruze LTZ AT,475000,2014,73265,Diesel,Automatic,Delhi,White,Second,1998 cc,164,2000 rpm,FWD,60.0,18.1 kmpl
+852,Chevrolet,Cruze LTZ AT,475000,2014,73265,Diesel,Automatic,Delhi,White,Second,1998 cc,164,2000 rpm,FWD,60.0,14.81 kmpl
+853,Chevrolet,Cruze LTZ AT,475000,2014,73265,Diesel,Automatic,Delhi,White,Second,1998 cc,164,2000 rpm,FWD,60.0,14.81 kmpl
+854,Chevrolet,Cruze LTZ AT,475000,2014,73265,Diesel,Automatic,Delhi,White,Second,1998 cc,164,2000 rpm,FWD,60.0,14.81 kmpl
+870,Audi,A3 35 TDI Premium Plus,2590000,2020,36978,Diesel,Automatic,Chandigarh,Blue,Second,1968 cc,141,1750 rpm,FWD,50.0,20.38 kmpl
+871,Audi,A3 35 TDI Premium Plus,2590000,2020,36978,Diesel,Automatic,Chandigarh,Blue,Second,1968 cc,141,1750 rpm,FWD,50.0,20.38 kmpl
+891,Toyota,Etios G,325000,2011,101347,Petrol,Manual,Pune,Red,Third,1496 cc,90,3000 rpm,FWD,45.0,17.6 kmpl
+892,Toyota,Etios G,325000,2011,101347,Petrol,Manual,Pune,Red,Third,1496 cc,90,3000 rpm,FWD,45.0,16.78 kmpl
+893,Toyota,Etios G,325000,2011,101347,Petrol,Manual,Pune,Red,Third,1496 cc,90,3000 rpm,FWD,45.0,16.78 kmpl
+894,Toyota,Etios G,325000,2011,101347,Petrol,Manual,Pune,Red,Third,1496 cc,90,3000 rpm,FWD,45.0,16.78 kmpl
+916,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+917,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+918,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+919,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+920,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+921,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+922,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+923,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+924,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+925,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+926,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+927,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+928,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+929,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+930,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+931,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+932,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+933,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+934,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+935,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+936,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+937,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+938,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+939,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+940,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+941,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+942,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+943,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+944,Volvo,V40 D3 R-Design,2000000,2016,6000,Diesel,Automatic,Mumbai,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+951,Hyundai,Creta 1.6 SX,1035000,2018,36000,Diesel,Manual,Patna,Grey,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+952,Hyundai,Creta 1.6 SX,1035000,2018,36000,Diesel,Manual,Patna,Grey,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+953,Hyundai,Creta 1.6 SX,1035000,2018,36000,Diesel,Manual,Patna,Grey,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+954,Hyundai,Creta 1.6 SX,1035000,2018,36000,Diesel,Manual,Patna,Grey,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+967,Audi,A6 2.0 TDI Premium Plus,1800000,2014,19868,Diesel,Automatic,Delhi,White,First,1968 cc,177,1750 rpm,FWD,65.0,17.68 kmpl
+968,Honda,City VX CVT,825000,2016,45000,Petrol,Automatic,Mumbai,White,First,1497 cc,117,4600 rpm,FWD,40.0,17.4 kmpl
+978,Mercedes-Benz,E-Class E250 CDI Avantgarde,1750000,2014,59000,Diesel,Automatic,Delhi,Brown,First,2143 cc,204,1600 rpm,RWD,80.0,13.0 kmpl
+979,Mercedes-Benz,E-Class E250 CDI Avantgarde,1750000,2014,59000,Diesel,Automatic,Delhi,Brown,First,2143 cc,204,1600 rpm,RWD,80.0,13.0 kmpl
+980,Mercedes-Benz,E-Class E250 CDI Avantgarde,1750000,2014,59000,Diesel,Automatic,Delhi,Brown,First,2143 cc,204,1600 rpm,RWD,80.0,13.0 kmpl
+997,Honda,Brio E MT,375000,2016,35134,Petrol,Manual,Delhi,Silver,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+1003,Hyundai,i20 Active 1.2 SX,685000,2018,64300,Petrol,Manual,Pune,Brown,First,1197 cc,82,4000 rpm,FWD,40.0,17.19 kmpl
+1004,Hyundai,i20 Active 1.2 SX,685000,2018,64300,Petrol,Manual,Pune,Brown,First,1197 cc,82,4000 rpm,FWD,40.0,17.19 kmpl
+1005,Hyundai,i20 Active 1.2 SX,685000,2018,64300,Petrol,Manual,Pune,Brown,First,1197 cc,82,4000 rpm,FWD,40.0,17.19 kmpl
+1050,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1051,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1052,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1053,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1054,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1055,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1056,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1057,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1058,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1059,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1060,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1061,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1062,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1063,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1064,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1065,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1066,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1067,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1068,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1069,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1070,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1071,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1072,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1073,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1074,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1075,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1076,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1077,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1078,Volvo,V40 D3 R-Design,2100000,2018,42000,Diesel,Automatic,Raipur,Red,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1083,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1084,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1085,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1086,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1089,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1094,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1095,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1096,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1099,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1100,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1101,Toyota,Etios GD,300000,2013,75000,Diesel,Manual,Kanpur,Silver,Second,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+1203,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1204,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1205,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1206,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1207,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1208,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1209,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1210,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1211,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1212,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1213,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1214,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1215,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1216,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1217,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1218,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1219,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1220,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1221,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1222,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1223,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1224,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1225,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1226,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1227,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1228,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1229,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1230,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1231,Volvo,V40 D3 R-Design,1689999,2015,50000,Diesel,Automatic,Coimbatore,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1235,Hyundai,Santro Era,409999,2019,32000,Petrol,Manual,Zirakpur,Silver,First,1086 cc,68,4500 rpm,FWD,35.0,20.3 kmpl
+1236,Hyundai,Santro Era,409999,2019,32000,Petrol,Manual,Zirakpur,Silver,First,1086 cc,68,4500 rpm,FWD,35.0,20.3 kmpl
+1237,Hyundai,Santro Era,409999,2019,32000,Petrol,Manual,Zirakpur,Silver,First,1086 cc,68,4500 rpm,FWD,35.0,20.3 kmpl
+1238,Hyundai,Santro Era,409999,2019,32000,Petrol,Manual,Zirakpur,Silver,First,1086 cc,68,4500 rpm,FWD,35.0,20.3 kmpl
+1261,Honda,City 1.5 V AT,495000,2012,65001,Petrol,Automatic,Pune,Red,First,1497 cc,116,4800 rpm,FWD,42.0,16.8 kmpl
+1262,Honda,City 1.5 V AT,495000,2012,65001,Petrol,Automatic,Pune,Red,First,1497 cc,116,4800 rpm,FWD,42.0,16.8 kmpl
+1274,Hyundai,Verna 1.6 VTVT SX,645000,2016,45000,Petrol,Manual,Delhi,White,First,1591 cc,121,4200 rpm,FWD,43.0,17.01 kmpl
+1275,Hyundai,Verna 1.6 VTVT SX,645000,2016,45000,Petrol,Manual,Delhi,White,First,1591 cc,121,4200 rpm,FWD,43.0,17.01 kmpl
+1276,Hyundai,Verna 1.6 VTVT SX,645000,2016,45000,Petrol,Manual,Delhi,White,First,1591 cc,121,4200 rpm,FWD,43.0,17.01 kmpl
+1322,Hyundai,i20 Active 1.4 S,545000,2016,70500,Diesel,Manual,Jamshedpur,White,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+1328,Honda,City 1.5 V AT,475000,2012,40000,Petrol,Automatic,Pune,Red,Second,1497 cc,116,4800 rpm,FWD,42.0,16.8 kmpl
+1329,Honda,City 1.5 V AT,475000,2012,40000,Petrol,Automatic,Pune,Red,Second,1497 cc,116,4800 rpm,FWD,42.0,16.8 kmpl
+1338,Tata,Harrier XZ,1750000,2020,14400,Diesel,Manual,Ahmedabad,Silver,First,1956 cc,168,1750 rpm,FWD,50.0,17.0 kmpl
+1348,Skoda,Superb Elegance 1.8 TSI AT,795000,2014,53000,Petrol,Automatic,Delhi,White,Second,1798 cc,158,1500 rpm,FWD,60.0,13.7 kmpl
+1381,Mercedes-Benz,M-Class ML 250 CDI,2250000,2014,85000,Diesel,Automatic,Delhi,White,Second,2143 cc,203,1600 rpm,AWD,70.0,15.26 kmpl
+1418,Hyundai,Accent Executive,400000,2015,41273,Petrol,Manual,Mumbai,White,First,1495 cc,94,3500 rpm,FWD,45.0,16.36 kmpl
+1419,Hyundai,Accent Executive,400000,2015,41273,Petrol,Manual,Mumbai,White,First,1495 cc,94,3500 rpm,FWD,45.0,16.36 kmpl
+1420,Hyundai,Accent Executive,400000,2015,41273,Petrol,Manual,Mumbai,White,First,1495 cc,94,3500 rpm,FWD,45.0,16.36 kmpl
+1421,Hyundai,Accent Executive,400000,2015,41273,Petrol,Manual,Mumbai,White,First,1495 cc,94,3500 rpm,FWD,45.0,16.36 kmpl
+1422,Hyundai,Accent Executive,400000,2015,41273,Petrol,Manual,Mumbai,White,First,1495 cc,94,3500 rpm,FWD,45.0,16.36 kmpl
+1430,Hyundai,i20 Active 1.2 SX,560000,2016,22700,Petrol,Manual,Mumbai,Red,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+1431,Hyundai,i20 Active 1.2 SX,560000,2016,22700,Petrol,Manual,Mumbai,Red,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+1432,Hyundai,i20 Active 1.2 SX,560000,2016,22700,Petrol,Manual,Mumbai,Red,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+1440,Honda,City 1.5 S MT,500000,2013,65000,Petrol,Manual,Chennai,Brown,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+1441,Honda,City 1.5 S MT,500000,2013,65000,Petrol,Manual,Chennai,Brown,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+1442,Honda,City 1.5 S MT,500000,2013,65000,Petrol,Manual,Chennai,Brown,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+1443,Honda,City 1.5 S MT,500000,2013,65000,Petrol,Manual,Chennai,Brown,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+1444,Honda,City 1.5 S MT,500000,2013,65000,Petrol,Manual,Chennai,Brown,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+1445,Honda,City 1.5 S MT,500000,2013,65000,Petrol,Manual,Chennai,Brown,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+1446,Honda,City 1.5 S MT,500000,2013,65000,Petrol,Manual,Chennai,Brown,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+1485,Volkswagen,Polo GT TDI,325000,2013,76000,Diesel,Manual,Lucknow,White,First,1598 cc,103,1500 rpm,FWD,45.0,15.11 kmpl
+1486,Volkswagen,Polo GT TDI,325000,2013,76000,Diesel,Manual,Lucknow,White,First,1598 cc,103,1500 rpm,FWD,45.0,19.7 kmpl
+1487,Volkswagen,Polo GT TDI,325000,2013,76000,Diesel,Manual,Lucknow,White,First,1598 cc,103,1500 rpm,FWD,45.0,19.7 kmpl
+1531,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1532,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1533,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1534,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1535,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1536,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1537,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1538,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1539,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1540,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1541,Hyundai,i20 Magna 1.2,385000,2014,46000,Petrol,Manual,Hyderabad,Maroon,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+1552,BMW,X3 xDrive20d,1950000,2014,82000,Diesel,Automatic,Chandigarh,White,Second,1995 cc,184,1750 rpm,AWD,67.0,16.09 kmpl
+1589,Hyundai,Creta 1.6 SX,850000,2016,72000,Diesel,Manual,Ahmedabad,Red,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+1590,Hyundai,Creta 1.6 SX,850000,2016,72000,Diesel,Manual,Ahmedabad,Red,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+1591,Hyundai,Creta 1.6 SX,850000,2016,72000,Diesel,Manual,Ahmedabad,Red,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+1592,Hyundai,Creta 1.6 SX,850000,2016,72000,Diesel,Manual,Ahmedabad,Red,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+1635,BMW,X1 sDrive20i xLine,3990000,2021,12500,Petrol,Automatic,Delhi,White,First,1998 cc,189,1350 rpm,FWD,51.0,15.71 kmpl
+1636,BMW,X1 sDrive20i xLine,3990000,2021,12500,Petrol,Automatic,Delhi,White,First,1998 cc,189,1350 rpm,FWD,51.0,15.71 kmpl
+1651,Toyota,Etios Liva GD,500000,2016,114000,Diesel,Manual,Ambala Cantt,Grey,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+1656,Toyota,Etios Liva GD,500000,2016,114000,Diesel,Manual,Ambala Cantt,Grey,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+1657,Toyota,Etios Liva GD,500000,2016,114000,Diesel,Manual,Ambala Cantt,Grey,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+1658,Toyota,Etios Liva GD,500000,2016,114000,Diesel,Manual,Ambala Cantt,Grey,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+1660,Toyota,Etios Liva GD,500000,2016,114000,Diesel,Manual,Ambala Cantt,Grey,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+1662,Toyota,Etios Liva GD,500000,2016,114000,Diesel,Manual,Ambala Cantt,Grey,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+1663,Toyota,Etios Liva GD,500000,2016,114000,Diesel,Manual,Ambala Cantt,Grey,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+1664,Toyota,Etios Liva GD,500000,2016,114000,Diesel,Manual,Ambala Cantt,Grey,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+1699,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1700,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1701,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1702,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1703,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1704,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1705,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1706,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1707,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1708,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1709,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1710,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1711,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1712,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1713,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1714,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1715,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1716,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1717,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1718,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1719,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1720,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1721,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1722,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1723,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1724,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1725,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1726,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1727,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1728,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1729,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1730,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1731,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1732,Lexus,ES 300h,4375000,2017,31059,Petrol,Automatic,Bangalore,Brown,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1736,Hyundai,i20 Active 1.4 S,750000,2017,72000,Diesel,Manual,Chennai,Maroon,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+1761,Mercedes-Benz,M-Class ML 350 CDI,2600000,2014,94000,Diesel,Automatic,Mumbai,White,First,2997 cc,254,1600 rpm,AWD,70.0,11.74 kmpl
+1762,Mercedes-Benz,M-Class ML 350 CDI,2600000,2014,94000,Diesel,Automatic,Mumbai,White,First,2997 cc,254,1600 rpm,AWD,70.0,11.74 kmpl
+1778,Honda,Jazz V Diesel,525000,2015,68244,Diesel,Manual,Indore,Silver,Second,1498 cc,98,1750 rpm,FWD,40.0,27.3 kmpl
+1798,Audi,A3 40 TFSI Premium,1760000,2017,48000,Petrol,Automatic,Delhi,White,First,1798 cc,178,1250 rpm,FWD,50.0,16.6 kmpl
+1813,Mercedes-Benz,M-Class ML 250 CDI,2450000,2015,103000,Diesel,Automatic,Mumbai,White,First,2143 cc,203,1600 rpm,AWD,70.0,15.26 kmpl
+1856,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1857,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1858,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1859,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1860,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1861,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1862,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1863,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1864,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1865,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1866,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1867,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1868,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1869,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1870,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1871,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1872,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1873,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1874,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1875,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1876,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1877,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1878,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1879,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1880,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1881,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1882,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1883,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1884,Volvo,V40 D3 R-Design,1798999,2017,14000,Diesel,Automatic,Delhi,Blue,First,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+1897,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1898,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1899,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1900,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1901,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1902,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1903,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1904,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1905,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1906,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1907,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1908,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1909,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1910,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1911,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1912,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1913,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1914,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1915,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1916,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1917,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1918,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1919,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1920,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1921,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1922,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1923,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1924,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1925,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1926,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1927,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1928,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1929,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1930,Lexus,ES 300h,3900000,2017,31059,Petrol,Automatic,Bangalore,Bronze,First,2494 cc,202,4500 rpm,RWD,65.0,22.37 kmpl
+1962,Hyundai,i20 Active 1.4 SX,540000,2015,59000,Diesel,Manual,Agra,Silver,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+1963,Hyundai,i20 Active 1.4 SX,540000,2015,59000,Diesel,Manual,Agra,Silver,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+1964,Hyundai,i20 Active 1.4 SX,540000,2015,59000,Diesel,Manual,Agra,Silver,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+1965,Hyundai,i20 Active 1.4 SX,540000,2015,59000,Diesel,Manual,Agra,Silver,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+1966,Hyundai,i20 Active 1.4 SX,540000,2015,59000,Diesel,Manual,Agra,Silver,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+1967,Hyundai,i20 Active 1.4 SX,540000,2015,59000,Diesel,Manual,Agra,Silver,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+1968,Hyundai,i20 Active 1.4 SX,540000,2015,59000,Diesel,Manual,Agra,Silver,First,1396 cc,89,1500 rpm,FWD,45.0,21.19 kmpl
+1970,Mercedes-Benz,M-Class ML 350 CDI,3200000,2014,60513,Diesel,Automatic,Mumbai,Silver,First,2997 cc,254,1600 rpm,AWD,70.0,11.74 kmpl
+1971,Mercedes-Benz,M-Class ML 350 CDI,3200000,2014,60513,Diesel,Automatic,Mumbai,Silver,First,2997 cc,254,1600 rpm,AWD,70.0,11.74 kmpl
+1981,Audi,A6 35 TFSI Matrix,2850000,2017,58000,Petrol,Automatic,Delhi,Black,First,1798 cc,190,1400 rpm,FWD,75.0,15.26 kmpl
+1982,Audi,A6 35 TFSI Matrix,2850000,2017,58000,Petrol,Automatic,Delhi,Black,First,1798 cc,190,1400 rpm,FWD,75.0,15.26 kmpl
+1983,Audi,A6 35 TFSI Matrix,2850000,2017,58000,Petrol,Automatic,Delhi,Black,First,1798 cc,190,1400 rpm,FWD,75.0,15.26 kmpl
+2003,Hyundai,Creta 1.6 SX,1044999,2016,78000,Diesel,Manual,Bangalore,Black,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+2004,Hyundai,Creta 1.6 SX,1044999,2016,78000,Diesel,Manual,Bangalore,Black,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+2005,Hyundai,Creta 1.6 SX,1044999,2016,78000,Diesel,Manual,Bangalore,Black,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+2006,Hyundai,Creta 1.6 SX,1044999,2016,78000,Diesel,Manual,Bangalore,Black,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+2014,Honda,City 1.5 V MT,375000,2012,80350,Petrol,Manual,Mumbai,Silver,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2015,Honda,City 1.5 V MT,375000,2012,80350,Petrol,Manual,Mumbai,Silver,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2016,Honda,City 1.5 V MT,375000,2012,80350,Petrol,Manual,Mumbai,Silver,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2017,Honda,City 1.5 V MT,375000,2012,80350,Petrol,Manual,Mumbai,Silver,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2018,Honda,City 1.5 V MT,375000,2012,80350,Petrol,Manual,Mumbai,Silver,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2019,Honda,City 1.5 V MT,375000,2012,80350,Petrol,Manual,Mumbai,Silver,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2036,Mahindra,XUV500 W8 AWD,810000,2012,47531,Diesel,Manual,Bangalore,White,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2037,Mahindra,XUV500 W8 AWD,810000,2012,47531,Diesel,Manual,Bangalore,White,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2038,Mahindra,XUV500 W8 AWD,810000,2012,47531,Diesel,Manual,Bangalore,White,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2039,Mahindra,XUV500 W8 AWD,810000,2012,47531,Diesel,Manual,Bangalore,White,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2040,Mahindra,XUV500 W8 AWD,810000,2012,47531,Diesel,Manual,Bangalore,White,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2041,Mahindra,XUV500 W8 AWD,810000,2012,47531,Diesel,Manual,Bangalore,White,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2042,Mahindra,XUV500 W8 AWD,810000,2012,47531,Diesel,Manual,Bangalore,White,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2085,Audi,A3 35 TDI Premium Plus,1390000,2014,85900,Diesel,Automatic,Agra,Brown,First,1968 cc,141,1750 rpm,FWD,50.0,20.38 kmpl
+2086,Audi,A3 35 TDI Premium Plus,1390000,2014,85900,Diesel,Automatic,Agra,Brown,First,1968 cc,141,1750 rpm,FWD,50.0,20.38 kmpl
+2095,Tata,Harrier XZ,2095000,2021,23000,Diesel,Manual,Hyderabad,Red,First,1956 cc,168,1750 rpm,FWD,50.0,17.0 kmpl
+2099,Honda,City 1.5 V MT,400000,2013,76000,Petrol,Manual,Delhi,White,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2100,Honda,City 1.5 V MT,400000,2013,76000,Petrol,Manual,Delhi,White,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2101,Honda,City 1.5 V MT,400000,2013,76000,Petrol,Manual,Delhi,White,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2102,Honda,City 1.5 V MT,400000,2013,76000,Petrol,Manual,Delhi,White,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2103,Honda,City 1.5 V MT,400000,2013,76000,Petrol,Manual,Delhi,White,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2104,Honda,City 1.5 V MT,400000,2013,76000,Petrol,Manual,Delhi,White,First,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2160,Honda,City VX CVT,690000,2015,59000,Petrol,Automatic,Faridabad,Silver,First,1497 cc,117,4600 rpm,FWD,40.0,17.4 kmpl
+2162,Honda,Accord 2.4 AT,475000,2011,72000,Petrol,Automatic,Delhi,Gold,First,2354 cc,178,4300 rpm,FWD,70.0,11.7 kmpl
+2171,Audi,A6 2.0 TDI Premium Plus,1450000,2014,58000,Diesel,Automatic,Delhi,Black,Second,1968 cc,177,1750 rpm,FWD,65.0,17.68 kmpl
+2215,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2216,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2217,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2218,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2221,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2226,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2227,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2228,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2231,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2232,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2233,Toyota,Etios GD,299000,2013,90000,Diesel,Manual,Bulandshahar,Blue,Third,1364 cc,68,2400 rpm,FWD,45.0,23.59 kmpl
+2326,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2327,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2328,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2329,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2330,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2331,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2332,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2333,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2334,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2335,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2336,Hyundai,i20 Magna 1.2,300000,2014,40000,Petrol,Manual,Kolkata,Silver,First,1197 cc,83,4000 rpm,FWD,45.0,18.6 kmpl
+2340,Hyundai,i20 Active 1.2 SX,595000,2015,45000,Petrol,Manual,Thane,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+2341,Hyundai,i20 Active 1.2 SX,595000,2015,45000,Petrol,Manual,Thane,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+2342,Hyundai,i20 Active 1.2 SX,595000,2015,45000,Petrol,Manual,Thane,White,First,1197 cc,82,4000 rpm,FWD,45.0,17.19 kmpl
+2357,Hyundai,Creta 1.6 SX,1750000,2021,14000,Diesel,Manual,Chennai,Black,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+2358,Hyundai,Creta 1.6 SX,1750000,2021,14000,Diesel,Manual,Chennai,Black,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+2359,Hyundai,Creta 1.6 SX,1750000,2021,14000,Diesel,Manual,Chennai,Black,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+2360,Hyundai,Creta 1.6 SX,1750000,2021,14000,Diesel,Manual,Chennai,Black,First,1582 cc,126,1900 rpm,FWD,60.0,15.8 kmpl
+2391,BMW,X1 sDrive20d,3250000,2020,32005,Diesel,Automatic,Bangalore,Blue,Second,1995 cc,184,1750 rpm,RWD,61.0,17.05 kmpl
+2440,Mahindra,Quanto C4,249000,2013,60000,Diesel,Manual,Kolkata,Red,First,1493 cc,100,1600 rpm,RWD,55.0,17.21 kmpl
+2441,Mahindra,Quanto C4,249000,2013,60000,Diesel,Manual,Kolkata,Red,First,1493 cc,100,1600 rpm,RWD,55.0,17.21 kmpl
+2452,Toyota,Etios Liva G,350000,2013,34000,Petrol,Manual,Pune,Black,First,1197 cc,80,3100 rpm,FWD,45.0,17.71 kmpl
+2457,Mahindra,XUV500 W8 AWD,975000,2017,78000,Diesel,Manual,Mumbai,Silver,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2458,Mahindra,XUV500 W8 AWD,975000,2017,78000,Diesel,Manual,Mumbai,Silver,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2459,Mahindra,XUV500 W8 AWD,975000,2017,78000,Diesel,Manual,Mumbai,Silver,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2460,Mahindra,XUV500 W8 AWD,975000,2017,78000,Diesel,Manual,Mumbai,Silver,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2461,Mahindra,XUV500 W8 AWD,975000,2017,78000,Diesel,Manual,Mumbai,Silver,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2462,Mahindra,XUV500 W8 AWD,975000,2017,78000,Diesel,Manual,Mumbai,Silver,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2463,Mahindra,XUV500 W8 AWD,975000,2017,78000,Diesel,Manual,Mumbai,Silver,First,2179 cc,140,2800 rpm,AWD,70.0,15.1 kmpl
+2481,Mahindra,Quanto C8,240000,2013,51500,Diesel,Manual,Kolkata,Maroon,Second,1493 cc,100,1600 rpm,RWD,55.0,17.21 kmpl
+2482,Mahindra,Quanto C8,240000,2013,51500,Diesel,Manual,Kolkata,Maroon,Second,1493 cc,100,1600 rpm,RWD,55.0,17.21 kmpl
+2486,Audi,A4 35 TDI Premium Plus,3400000,2019,48000,Diesel,Automatic,Chandigarh,White,First,1968 cc,188,1750 rpm,FWD,54.0,18.25 kmpl
+2487,Audi,A4 35 TDI Premium Plus,3400000,2019,48000,Diesel,Automatic,Chandigarh,White,First,1968 cc,188,1750 rpm,FWD,54.0,18.25 kmpl
+2488,Audi,A4 35 TDI Premium Plus,3400000,2019,48000,Diesel,Automatic,Chandigarh,White,First,1968 cc,188,1750 rpm,FWD,54.0,18.25 kmpl
+2489,Audi,A4 35 TDI Premium Plus,3400000,2019,48000,Diesel,Automatic,Chandigarh,White,First,1968 cc,188,1750 rpm,FWD,54.0,18.25 kmpl
+2513,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2514,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2515,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2516,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2517,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2518,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2519,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2520,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2521,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2522,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2523,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2524,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2525,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2526,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2527,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2528,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2529,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2530,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2531,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2532,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2533,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2534,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2535,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2536,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2537,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2538,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2539,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2540,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2541,Volvo,V40 D3 R-Design,2050000,2017,68000,Diesel,Automatic,Mumbai,White,Second,1984 cc,150,1500 rpm,FWD,60.0,16.8 kmpl
+2581,Tata,Tiago NRG Petrol,525000,2019,32000,Petrol,Manual,Noida,Bronze,First,1199 cc,84,3500 rpm,FWD,35.0,24.0 kmpl
+2582,Tata,Tiago NRG Petrol,525000,2019,32000,Petrol,Manual,Noida,Bronze,First,1199 cc,84,3500 rpm,FWD,35.0,24.0 kmpl
+2618,Honda,CR-V 2.0L 2WD AT,1130000,2015,50000,Petrol,Automatic,Mumbai,Brown,First,1997 cc,154,4300 rpm,FWD,58.0,13.1 kmpl
+2619,Honda,CR-V 2.0L 2WD AT,1130000,2015,50000,Petrol,Automatic,Mumbai,Brown,First,1997 cc,154,4300 rpm,FWD,58.0,13.7 kmpl
+2640,Honda,City VX CVT,775000,2016,42000,Petrol,Automatic,Mumbai,Brown,First,1497 cc,117,4600 rpm,FWD,40.0,17.4 kmpl
+2655,Volvo,XC40 D4 R-Design,3950000,2018,52000,Diesel,Automatic,Bangalore,White,First,1969 cc,190,1750 rpm,AWD,54.0,18.0 kmpl
+2656,Volvo,XC40 D4 R-Design,3950000,2018,52000,Diesel,Automatic,Bangalore,White,First,1969 cc,190,1750 rpm,AWD,54.0,18.0 kmpl
+2725,Nissan,Sunny XL,315000,2012,57000,Petrol,Manual,Amritsar,White,First,1498 cc,98,4000 rpm,FWD,41.0,16.95 kmpl
+2726,Nissan,Sunny XL,315000,2012,57000,Petrol,Manual,Amritsar,White,First,1498 cc,98,4000 rpm,FWD,41.0,16.95 kmpl
+2727,Nissan,Sunny XL,315000,2012,57000,Petrol,Manual,Amritsar,White,First,1498 cc,98,4000 rpm,FWD,41.0,16.95 kmpl
+2728,Nissan,Sunny XL,315000,2012,57000,Petrol,Manual,Amritsar,White,First,1498 cc,98,4000 rpm,FWD,41.0,16.95 kmpl
+2730,Honda,Brio S MT,341000,2016,49000,Petrol,Manual,Mumbai,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+2731,Honda,Brio S MT,341000,2016,49000,Petrol,Manual,Mumbai,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+2732,Honda,Brio S MT,341000,2016,49000,Petrol,Manual,Mumbai,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+2733,Honda,Brio S MT,341000,2016,49000,Petrol,Manual,Mumbai,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+2734,Honda,Brio S MT,341000,2016,49000,Petrol,Manual,Mumbai,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+2735,Honda,Brio S MT,341000,2016,49000,Petrol,Manual,Mumbai,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+2736,Honda,Brio S MT,341000,2016,49000,Petrol,Manual,Mumbai,White,First,1198 cc,87,4500 rpm,FWD,35.0,19.4 kmpl
+2773,Honda,City 1.5 E MT,375000,2013,86000,Petrol,Manual,Mumbai,Purple,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2774,Honda,City 1.5 E MT,375000,2013,86000,Petrol,Manual,Mumbai,Purple,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2775,Honda,City 1.5 E MT,375000,2013,86000,Petrol,Manual,Mumbai,Purple,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2780,Honda,City 1.5 S MT,499000,2012,96506,Petrol,Manual,Bangalore,Silver,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2781,Honda,City 1.5 S MT,499000,2012,96506,Petrol,Manual,Bangalore,Silver,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2782,Honda,City 1.5 S MT,499000,2012,96506,Petrol,Manual,Bangalore,Silver,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2783,Honda,City 1.5 S MT,499000,2012,96506,Petrol,Manual,Bangalore,Silver,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2784,Honda,City 1.5 S MT,499000,2012,96506,Petrol,Manual,Bangalore,Silver,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2785,Honda,City 1.5 S MT,499000,2012,96506,Petrol,Manual,Bangalore,Silver,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2786,Honda,City 1.5 S MT,499000,2012,96506,Petrol,Manual,Bangalore,Silver,Second,1497 cc,116,4800 rpm,FWD,42.0,17.0 kmpl
+2812,Mahindra,XUV500 W10 AWD,735000,2015,121000,Diesel,Manual,Kanpur,White,First,2179 cc,138,1600 rpm,AWD,70.0,16.0 kmpl
+2818,Toyota,Etios Liva G,315000,2011,38091,Petrol,Manual,Mumbai,Red,First,1197 cc,80,3100 rpm,FWD,45.0,17.71 kmpl
+2821,Toyota,Etios VXD,465000,2014,82000,Diesel,Manual,Ludhiana,Silver,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
+2822,Toyota,Etios VXD,465000,2014,82000,Diesel,Manual,Ludhiana,Silver,First,1364 cc,67,1800 rpm,FWD,45.0,23.59 kmpl
